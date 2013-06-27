@@ -10,6 +10,8 @@ namespace pruebaHGvs
         static void Main(string[] args)
         {
             int n = 0;
+            n = n + n;
+            n = n - 1;
         }
     }
 }
